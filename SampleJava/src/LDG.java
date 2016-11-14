@@ -13,6 +13,5 @@ public class LDG {
 		System.out.println("올ㅋ 에러 생겨라");
 		System.out.println("올ㅋ 에러 생겨라");
 		System.out.println("올ㅋ 에러 생겨라");
-		System.out.println("올ㅋ 에러 생겨라");
 	}
 }
